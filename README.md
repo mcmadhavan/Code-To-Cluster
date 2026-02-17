@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Kubernetes Demo API
 
 A production-ready Node.js + Express API containerized with Docker and deployed to Kubernetes with health checks, resource limits, and environment configuration.
